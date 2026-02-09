@@ -3,7 +3,7 @@
 import { useState } from "react"
 import { ModuleCard, type ModuleData } from "./module-card"
 
-const JOAO_IMG = "/images/joao.jpeg"
+const JOAO_IMG = "https://raw.githubusercontent.com/joaoemilio-jpg/exageradoproposta/refs/heads/main/public/images/joao.jpg"
 const YAN_IMG = "/images/yan.jpg"
 const LOGO_EXAGERADO = "/images/exagerado-logo.svg"
 
